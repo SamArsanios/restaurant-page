@@ -12,7 +12,7 @@ const contactTab = document.querySelector('.contact-tab');
 
 const tabs = [homeTab, menuTab, contactTab];
 
-// header();
+header();
 home(content);
 
 tabs.forEach(tab => {
