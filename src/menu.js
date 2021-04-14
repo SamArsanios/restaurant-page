@@ -19,8 +19,8 @@ const menu = () => {
             price: '$3',
         },
         {
-            image: 'https://cdn.pixabay.com/photo/2017/11/08/22/18/spaghetti-2931846_960_720.jpg',
-            dish_name: 'Spaghetti',
+            image: 'https://cdn.pixabay.com/photo/2017/03/07/04/40/swede-cakes-2123191_960_720.jpg',
+            dish_name: 'Swede Cakes',
             dish_content: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, suscipit?',
             price: '$22',
         },
