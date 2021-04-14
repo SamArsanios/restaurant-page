@@ -1,6 +1,10 @@
 ![Microverse](https://img.shields.io/badge/-Microverse-6F23FF?style=for-the-badge)
 
 # Restaurant Page
+This is a simple restaurant web page that consists of 3 tabs.
+- Home
+- Menu Information
+- Contact Information
 
 ## Built With
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
