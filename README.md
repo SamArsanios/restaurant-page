@@ -9,10 +9,26 @@
 ![JAVASCRIPT](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E")
 
 ## Live Demo
-https://samarsanios.github.io/library/
+https://samarsanios.github.io/restaurant-page/
 
 ## Set Up 
+To get started open the directory where you will save this repo:
 
+```
+$ cd <directory>
+```
+
+- Clone the repo typing:
+
+```
+$ git clone git@github.com:SamArsanios/restaurant-page.git
+```
+
+- Install dependencies:
+
+```
+$ npm install
+```
 ## Author
 
 👤 **Samson**
@@ -20,3 +36,15 @@ https://samarsanios.github.io/library/
 - Github: [@SamArsanios](https://github.com/SamArsanios)
 - Twitter: [@SamArsanios](https://twitter.com/SamArsanios)
 - Linkedin: [@Samson](https://www.linkedin.com/in/samson-kibrom/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- To Microverse for their `README` template.
