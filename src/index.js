@@ -15,23 +15,23 @@ header();
 home(content);
 
 tabs.forEach((tab) => {
-    tab.addEventListener('click', () => {
-        content.innerHTML = '';
-        tabs.forEach((tab) => {
-            tab.classList.remove('active');
-        });
-        tab.classList.toggle('active');
+  tab.addEventListener('click', () => {
+    content.innerHTML = '';
+    tabs.forEach((tab) => {
+      tab.classList.remove('active');
     });
+    tab.classList.toggle('active');
+  });
 });
 
 homeTab.addEventListener('click', () => {
-    home(content);
+  home(content);
 });
 
 menuTab.addEventListener('click', () => {
-    menu(content);
+  menu(content);
 });
 
 contactTab.addEventListener('click', () => {
-    contact(content);
+  contact(content);
 });
