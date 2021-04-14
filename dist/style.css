@@ -5,18 +5,9 @@ nav{
 .container-fluid {
     background-color:#eee;
   }
-  /* .card {
-    max-width: 540px;
-  }
-  
-  .card-img {
-    height: 100%;
-  } */
 
 .arsani {
     text-align: center;
-    /* padding-top: 20px;
-    padding-bottom: 20px; */
 }
 
 .fixed {
@@ -30,3 +21,4 @@ nav{
     z-index: 2;
     background-color: rgb(75, 162, 224);
   }
+  
