@@ -1,4 +1,5 @@
 import home from './home';
+import menu from './menu';
 
 const content = document.querySelector('#content');
 
@@ -22,4 +23,8 @@ tabs.forEach(tab => {
 
 homeTab.addEventListener('click', () => {
     home(content);
+});
+
+menuTab.addEventListener('click', () => {
+    menu(content);
 });
