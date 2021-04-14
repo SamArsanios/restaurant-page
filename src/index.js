@@ -5,7 +5,6 @@ import header from './header';
 // import bgImg from './background-1.jpg';
 
 const content = document.querySelector('#content');
-// const headers = document.querySelector('#header');
 
 const homeTab = document.querySelector('.home-tab');
 const menuTab = document.querySelector('.menu-tab');
