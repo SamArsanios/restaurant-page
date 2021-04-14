@@ -1,3 +1,33 @@
 nav{
     margin-top: 200px;
 }
+
+.container-fluid {
+    background-color:#eee;
+  }
+  /* .card {
+    max-width: 540px;
+  }
+  
+  .card-img {
+    height: 100%;
+  } */
+
+.arsani {
+    text-align: center;
+    /* padding-top: 20px;
+    padding-bottom: 20px; */
+}
+
+.fixed {
+    position: fixed;
+}
+
+.topnav {
+    top: 0;
+    left: 0;
+    width: 100%;
+    /* height: 60px; */
+    z-index: 2;
+    /* background-color: rgb(75, 162, 224); */
+  }
