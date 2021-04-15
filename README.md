@@ -6,7 +6,7 @@ This is a simple restaurant web page that consists of 3 tabs.
 - Menu Information
 - Contact Information
 
-![img](./screenshot.jpg)
+![img](https://github.com/SamArsanios/restaurant-page/blob/restaurant-page/screenshot.JPG)
 
 ## Built With
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
